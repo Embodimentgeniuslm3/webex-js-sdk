@@ -145,7 +145,7 @@
     "isomorphic-webcrypto": "^2.3.8",
     "istanbul": "^0.4.5",
     "javascript-state-machine": "^3.1.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "lint-staged": "^8.2.1",
     "load-grunt-tasks": "^3.5.2",
     "localforage": "^1.7.3",
